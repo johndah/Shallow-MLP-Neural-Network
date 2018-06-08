@@ -21,8 +21,6 @@ from sklearn.model_selection import learning_curve
 from sklearn.model_selection import ShuffleSplit
 from matplotlib.offsetbox import AnchoredText
 
-#   cd  C:\Users\johnd\OneDrive\Documents\DD2437 Artificial Neural Networks and Deep Architectures\Lab 1\Part 2
-#   python MLP.py
 
 class multiLayerPerceptron(object):
     def __init__(self, X, targets, setProportions, hiddenLayerSizes, eta, alpha, lmbda, tol, sigmaNoise, nEpochs, printProccess, plotType):
