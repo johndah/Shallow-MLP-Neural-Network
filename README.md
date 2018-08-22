@@ -3,7 +3,7 @@ Shallow multilayer perceptron with clear visualization for classification and ti
 
 The project contains two implementations of the shalllow neural MLP network;
 
-## Simple classification of linearly non-seperable data clusters:
+## Simple classification of linearly non-separable data clusters:
 ![](https://github.com/johndah/Shallow-Neural-MLP-Network/blob/master/Classification.png)
 Which successfully classifies by seperating clusters with a multidimentional sigmoidal function. The learning curve is presented below.
 ![](https://github.com/johndah/Shallow-Neural-MLP-Network/blob/master/Learning%20Curve.png)
